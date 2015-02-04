@@ -8,5 +8,6 @@ $here = Split-Path -Parent $MyInvocation.MyCommand.Path
 . $here\functions\Get-ManagedCredential.ps1
 . $here\functions\Remove-ManagedCredential.ps1
 . $here\functions\Set-ManagedCredential.ps1
+. $here\functions\Decrypt-SecureString.ps1
 
 Export-ModuleMember -Function *-*
