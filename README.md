@@ -1,2 +1,2 @@
-# GpCred
-Gravity PS presents Credential Management helpers for PowerShell.
+# AetherCred
+Credential Management helpers for PowerShell.
